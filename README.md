@@ -1,5 +1,7 @@
 TL;DR - It's illegal in Romania to buy homework.
 
+Update: RoliSoft has provided me with a new, more legal [approapch](https://github.com/palcu/teme-acs/issues/2)
+
 # Description
 
 Auction website for students at ACS where people can sell and buy homework.
@@ -101,7 +103,9 @@ Toate temele au deadline. Mă gândesc că putem opri licitația cu 48 de ore î
 * research if we could be sued
 * students could repeat the year if someone learns that their homework is copied
 
-#### After discussing with my parents, there isn't a legal way for me, to make a company, and buy homework from the students which make it. I must make a transaction with them, where the goods are sold and they must pay taxes on it. Just putting up an auction website and letting students deal themselves with the transactions, cannot guarantee that I claim my 30% part. If I say that I have done all the homework, then it's illegal for me to pull out the money from the company and pay my "subcontractors".
+#### Legal decision
+
+After discussing with my parents, there isn't a legal way for me, to make a company, and buy homework from the students which make it. I must make a transaction with them, where the goods are sold and they must pay taxes on it. Just putting up an auction website and letting students deal themselves with the transactions, cannot guarantee that I claim my 30% part. If I say that I have done all the homework, then it's illegal for me to pull out the money from the company and pay my "subcontractors".
 
 # Initial investment
 
